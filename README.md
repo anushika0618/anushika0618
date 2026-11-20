@@ -1,32 +1,36 @@
-## Hi there 👋
-# 💫 About Me:
-Hi, I’m Anushika 👩‍💻<br>A Computer Science student at BPSMV, passionate about building practical tech solutions and exploring AI-driven applications.<br>🌱 Currently learning: Data Structures, Web Development, and AI tools<br>💡 Interested in: Hackathons, real-world problem solving, and startup ideas<br>🚀 Working on: Projects that combine productivity + AI<br>📫 Always open to collaboration and learning opportunities
+# Hi, I'm Anushika 👋
 
+I'm a second-year Computer Science Engineering student at **Bhagat Phool Singh Mahila Vishwavidyalaya (BPSMV), India**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anushika0618 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anushika0618 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anushika0618 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy exploring technology, working with teams, and building practical digital products around real-world problems. I'm currently strengthening my programming fundamentals while learning through projects and collaborative development.
 
----
-[![](https://visitcount.itsvg.in/api?id=anushika0618 &icon=0&color=0)](https://visitcount.itsvg.in)
+## What I'm exploring
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--# 💫 About Me:
-Hi, I’m Anushika 👩‍💻<br>A Computer Science student at BPSMV, passionate about building practical tech solutions and exploring AI-driven applications.<br>🌱 Currently learning: Data Structures, Web Development, and AI tools<br>💡 Interested in: Hackathons, real-world problem solving, and startup ideas<br>🚀 Working on: Projects that combine productivity + AI<br>📫 Always open to collaboration and learning opportunities
+- Software development and web technologies
+- Artificial intelligence and practical AI applications
+- Problem-solving and programming fundamentals
+- Building and documenting useful projects
 
+## Technologies
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anushika0618 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anushika0618 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anushika0618 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Programming:** C, C++, Python, JavaScript  
+**Web:** HTML, CSS  
+**Database:** SQL  
+**Tools:** Git, GitHub
 
----
-[![](https://visitcount.itsvg.in/api?id=anushika0618 &icon=0&color=0)](https://visitcount.itsvg.in)
+> This list reflects technologies I've studied or used in coursework and projects; I'm continuing to develop practical proficiency.
 
-<!-- Proudly created with GPRM 
--->
+## Selected work
+
+- **[IdeaBridge](https://github.com/anushika0618/Ideabridge)** — An innovation platform connecting consumer ideas and feedback with businesses.
+- **[Impact India](https://github.com/anushika0618/Impact-India)** — A civic issue-reporting prototype with citizen, volunteer, authority, and NGO views.
+
+More projects and contributions are available in my repositories.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/anushika-371236306/)
+- [GitHub](https://github.com/anushika0618)
+- [Email](mailto:anushika0618@gmail.com)
+
+*Learning by building, collaborating, and improving one step at a time.*
