@@ -20,12 +20,12 @@ I enjoy exploring technology, working with teams, and building practical digital
 
 > This list reflects technologies I've studied or used in coursework and projects; I'm continuing to develop practical proficiency.
 
-## Selected work
+## Selected collaborative work
 
-- **[IdeaBridge](https://github.com/anushika0618/Ideabridge)** — An innovation platform connecting consumer ideas and feedback with businesses.
-- **[Impact India](https://github.com/anushika0618/Impact-India)** — A civic issue-reporting prototype with citizen, volunteer, authority, and NGO views.
+- **[BrandPilot](https://github.com/Aman123933/Brandpilot)** — Collaborative product development, including frontend contributions.
+- **[ShikayatKaro](https://github.com/kanishkasaxena09/shikayatKaro)** — Collaborative civic issue-reporting platform.
 
-More projects and contributions are available in my repositories.
+These are team projects, not solo projects. More projects and contributions are available in my repositories.
 
 ## Connect
 
